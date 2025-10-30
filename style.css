@@ -8,6 +8,10 @@
  * Importing CSS Libraries
  *===========================================*/
 /* line 45, sass/libs/_normalize.scss */
+* {
+  color: inherit;
+}
+
 article,
 aside,
 details,
